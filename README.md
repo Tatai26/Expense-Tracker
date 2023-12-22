@@ -1,5 +1,7 @@
 # Expense-Tracker
+A website where we can keep track of all our daily expenses.
 
+(dp.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
